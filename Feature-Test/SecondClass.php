@@ -4,3 +4,4 @@
     
     include './SomeMireClass.php';
     $class = new SomeMore();
+    $class->example();
